@@ -540,3 +540,5 @@ $sSQL="select count(item_id) as i_item_id from items as i";
 }
 
 ?>
+
+//-- comment at the end of the file
