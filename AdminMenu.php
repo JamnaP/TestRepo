@@ -15,9 +15,6 @@ $sFileName = "AdminMenu.php";
 
 
 
-check_security(2);
-
-
 ?><html>
 <head>
 <title>Book Store</title>
